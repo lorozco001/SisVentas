@@ -1,10 +1,9 @@
 <?php
 
 namespace sisVentas\Http\Controllers;
-
 use Illuminate\Http\Request;
-
 use sisVentas\Http\Requests;
+
 use sisVentas\Articulo;
 use Illuminate\Support\Facades\Redirect;
 use Illuminate\Support\Facades\Input;
